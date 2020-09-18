@@ -1,7 +1,7 @@
 .bg {
     background-image: linear-gradient(120deg, #639bf7 0%, #b6cef5 100%);
-
-    min-height: 100%;
+    padding-top:4%;
+    min-height: 100vh;
 
     background-position: center;
     background-repeat: no-repeat;
