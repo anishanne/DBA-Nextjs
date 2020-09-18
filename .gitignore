@@ -1,0 +1,11 @@
+node_modules
+
+.DS_Store
+
+.next/cache/next-babel-loader/
+
+.next/static/webpack/
+
+.next/static/runtime/
+
+.next/
